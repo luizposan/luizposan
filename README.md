@@ -24,20 +24,7 @@ Muito prazer, eu sou o **Luiz Posan** e aqui você pode ver meu portfólio de re
 | 🖥️ CC50: Introdução à Ciência da Computação | Harvard (CC50) | ⏳ Em andamento |
 | 💻 Formação em Desenvolvimento | DIO | ⏳ Em andamento |
 
-### 🕵️ OSINT - Open Source Intelligence
-Estudando inteligência de fontes abertas:
 
-| Módulo | Duração | Status |
-|--------|---------|--------|
-| 🔍 Introdução | 01:54 | ✅ |
-| 📚 O que é OSINT? | 11:24 | ✅ |
-| 🧠 Pensamento OSINT | 06:03 | ✅ |
-| 🔎 Google Hacking | 07:24 | ✅ |
-| 🌐 Shodan | 09:06 | ✅ |
-| 🕸️ Maltego | 15:24 | ✅ |
-| 📁 Foca | - | ⏳ |
-
-**Progresso OSINT: 6/7 módulos concluídos** 🎯
 
 ---
 
