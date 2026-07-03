@@ -23,8 +23,7 @@ Muito prazer, eu sou o **Luiz Posan** e aqui você pode ver meu portfólio de re
 |-------|------------|--------|
 | 🖥️ CC50: Introdução à Ciência da Computação | Harvard (CC50) | ⏳ Em andamento |
 | 💻 Formação em Desenvolvimento | DIO | ⏳ Em andamento |
-
-
+| ⚛️ React - Do zero ao mestre | (Sua plataforma) | ⏳ Em andamento |
 
 ---
 
@@ -42,6 +41,7 @@ Abaixo você pode ver as tecnologias que utilizo no meu dia a dia:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### 🛠️ Ferramentas que utilizo
@@ -78,17 +78,3 @@ Vamos nos conectar! Você pode me encontrar nas redes abaixo:
 ---
 
 ⭐️ Obrigado pela visita! Volte sempre! 🚀
-<!--
-**luizposan/luizposan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
